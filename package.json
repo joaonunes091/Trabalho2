@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joaonunes091/T2.git"
+    "url": "git+https://github.com/joaonunes091/Trabalho2.git"
   },
   "author": "JoaoNunes",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joaonunes091/T2/issues"
+    "url": "https://github.com/joaonunes091/Trabalho2/issues"
   },
-  "homepage": "https://github.com/joaonunes091/T2#readme",
+  "homepage": "https://github.com/joaonunes091/Trabalho2#readme",
   "dependencies": {
     "bcrypt": "^3.0.7",
     "body-parser": "^1.19.0",
